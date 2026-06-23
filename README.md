@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst | Python · SQL · Power BI · ETL Pipelines |
+Helping Businesses Make Data-Driven Decisions | Data Analyst · MERN Stack | 6-Month Exp @ NullClass | Google Certified | Python · SQL · React
 
 
 ## 🌐 Socials:
